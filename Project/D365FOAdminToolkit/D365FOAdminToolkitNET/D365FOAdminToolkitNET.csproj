@@ -58,13 +58,13 @@
       <HintPath>$(ServiceDrive)\AOSService\PackagesLocalDirectory\bin\Microsoft.Dynamics.AX.Metadata.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Dynamics.AX.Metadata.Core">
-      <HintPath>$(ServiceDrive)\AOSService\WebRoot\bin\Microsoft.Dynamics.AX.Metadata.Core.dll</HintPath>
+      <HintPath>$(ServiceDrive)\AOSService\PackagesLocalDirectory\bin\Microsoft.Dynamics.AX.Metadata.Core.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Dynamics.AX.Metadata.Modeling">
       <HintPath>$(ServiceDrive)\AOSService\PackagesLocalDirectory\bin\Microsoft.Dynamics.AX.Metadata.Modeling.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Dynamics.AX.Security.Management">
-      <HintPath>$(ServiceDrive)\AOSService\WebRoot\bin\Microsoft.Dynamics.AX.Security.Management.dll</HintPath>
+      <HintPath>$(ServiceDrive)\AOSService\PackagesLocalDirectory\bin\Microsoft.Dynamics.AX.Security.Management.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Dynamics.AX.Xpp.AxShared, Version=7.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
