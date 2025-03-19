@@ -14,7 +14,7 @@ Last Updated: Oct 9th 2024</Description>
 	<InternalsVisibleTo xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
 		<d2p1:string>D365FOAdminToolkitTests</d2p1:string>
 	</InternalsVisibleTo>
-	<Layer>14</Layer>
+	<Layer>8</Layer>
 	<Locked>false</Locked>
 	<ModelModule>D365FOAdminToolkit</ModelModule>
 	<ModelReferences xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays"
